@@ -1,0 +1,14 @@
+F:\Projetos\Desenvolvimento\EstudosGerais\CSharp\Balta\Balta\bin\Debug\net6.0\Balta.exe
+F:\Projetos\Desenvolvimento\EstudosGerais\CSharp\Balta\Balta\bin\Debug\net6.0\Balta.deps.json
+F:\Projetos\Desenvolvimento\EstudosGerais\CSharp\Balta\Balta\bin\Debug\net6.0\Balta.runtimeconfig.json
+F:\Projetos\Desenvolvimento\EstudosGerais\CSharp\Balta\Balta\bin\Debug\net6.0\Balta.dll
+F:\Projetos\Desenvolvimento\EstudosGerais\CSharp\Balta\Balta\bin\Debug\net6.0\Balta.pdb
+F:\Projetos\Desenvolvimento\EstudosGerais\CSharp\Balta\Balta\obj\Debug\net6.0\Balta.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos\Desenvolvimento\EstudosGerais\CSharp\Balta\Balta\obj\Debug\net6.0\Balta.AssemblyInfoInputs.cache
+F:\Projetos\Desenvolvimento\EstudosGerais\CSharp\Balta\Balta\obj\Debug\net6.0\Balta.AssemblyInfo.cs
+F:\Projetos\Desenvolvimento\EstudosGerais\CSharp\Balta\Balta\obj\Debug\net6.0\Balta.csproj.CoreCompileInputs.cache
+F:\Projetos\Desenvolvimento\EstudosGerais\CSharp\Balta\Balta\obj\Debug\net6.0\Balta.dll
+F:\Projetos\Desenvolvimento\EstudosGerais\CSharp\Balta\Balta\obj\Debug\net6.0\refint\Balta.dll
+F:\Projetos\Desenvolvimento\EstudosGerais\CSharp\Balta\Balta\obj\Debug\net6.0\Balta.pdb
+F:\Projetos\Desenvolvimento\EstudosGerais\CSharp\Balta\Balta\obj\Debug\net6.0\Balta.genruntimeconfig.cache
+F:\Projetos\Desenvolvimento\EstudosGerais\CSharp\Balta\Balta\obj\Debug\net6.0\ref\Balta.dll

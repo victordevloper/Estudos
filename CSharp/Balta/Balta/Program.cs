@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Balta.Aulas;
+using System;
 
 namespace Balta
 {
@@ -6,7 +7,7 @@ namespace Balta
     { 
         public static void Main(string[] args)
         {
-
+            Variaveis.MostrarVariaveis();
         }
     }
 }
