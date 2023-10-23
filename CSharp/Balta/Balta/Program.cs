@@ -7,7 +7,8 @@ namespace Balta
     { 
         public static void Main(string[] args)
         {
-            Variaveis.MostrarVariaveis();
+            //Variaveis.MostrarVariaveis();
+            Listas.MostrarLista();
         }
     }
 }

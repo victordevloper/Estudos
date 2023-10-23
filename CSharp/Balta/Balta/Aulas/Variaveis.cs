@@ -17,8 +17,7 @@ namespace Balta.Aulas
             int idade = 22;
             char sexo = 'M';
 
-
-            Console.WriteLine($"{texto}, nome: {nome}, idade: {idade}, gênero: {sexo}, altura: {altura}, ele está pulando?: {pulando}");
+            Console.WriteLine($"{texto}, nome: {nome}, idade: {idade}, gênero: {sexo}, altura: {altura}, ele está pulando?: {pulando}.\n");
         }
     }
 }
