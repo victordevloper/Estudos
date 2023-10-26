@@ -25,6 +25,8 @@
                 case 0:
                     System.Environment.Exit(0);
                     break;
+                case 3:
+
 
                 default: Console.WriteLine("Opção não é Válida");
                     Console.ReadKey();
@@ -34,6 +36,7 @@
             }
 
         }
+
         static void CriarArquivo()
         {
             Console.Clear();
@@ -56,6 +59,26 @@
         static void AbrirArquivo()
         {
 
+        }
+
+        static void SalvarArquivo(string text)
+        {
+            Console.Clear();
+
+            Console.WriteLine("Digite o diretorio onde deseja salvar");
+            Console.WriteLine("________________________________________");
+
+            var path = Console.ReadLine();
+
+            using(var file = new StreamWriter(path))
+            {
+                file.Write(text);
+            }
+
+            Console.WriteLine("Arquivo salvo com sucesso");
+
+            Console.ReadKey();
+            
         }
     }
 }
