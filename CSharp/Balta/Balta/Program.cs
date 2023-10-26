@@ -7,8 +7,9 @@ namespace Balta
     { 
         public static void Main(string[] args)
         {
-            //Variaveis.MostrarVariaveis();
-            Listas.MostrarLista();
+            EditorDeTexto editor = new EditorDeTexto();
+
+            editor.Menu();
         }
     }
 }
