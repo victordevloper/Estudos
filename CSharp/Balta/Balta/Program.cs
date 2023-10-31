@@ -7,9 +7,9 @@ namespace Balta
     { 
         public static void Main(string[] args)
         {
-            EditorDeTexto editor = new EditorDeTexto();
+            Algoritmos algoritmos = new Algoritmos();
 
-            editor.Menu();
+            algoritmos.Executar();
         }
     }
 }

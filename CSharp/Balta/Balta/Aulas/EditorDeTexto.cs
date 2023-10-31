@@ -77,7 +77,7 @@
 
             Console.WriteLine("Arquivo salvo com sucesso");
 
-            Console.ReadKey();
+            Console.ReadLine();
             
         }
     }
